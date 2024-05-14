@@ -13,7 +13,7 @@
 
 ### Testing scripts
 
-- `typecheck` – checks TypeScript types
-- `lint` – runs ESLint
-- `prettier` – checks files with Prettier
-- `test` – runs `prettier:check`, `lint` and `typecheck` scripts
+- `npm run typecheck` – checks TypeScript types
+- `npm run lint` – runs ESLint
+- `npm run prettier` – checks files with Prettier
+- `npm run test` – runs `prettier:check`, `lint` and `typecheck` scripts
